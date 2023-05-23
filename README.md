@@ -1,2 +1,3 @@
 # mobile
- mobile mobile mobile mobile mobile mobile mobile mobile 
+um arquivo de programção JavaScript
+
